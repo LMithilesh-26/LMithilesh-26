@@ -1,4 +1,4 @@
-<h2 align="centre">Hi there 👋, I'm Mithilesh Lathkar</h2>
+<h2 align="center">Hi there 👋, I'm Mithilesh Lathkar</h2>
 
 - I'm a passionate Information Technology student at Vishwakarma Institute of Information Technology. 
 - Welcome to my GitHub playground, where I blend creativity with code.
