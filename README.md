@@ -1,5 +1,14 @@
-<h2 >Hi there 👋, I'm Mithilesh </h2>
-<h4>I'm a student at the Vishwakarma Institute of Information Technology studying Information Technology. I am currently exploring web development and competitive programming. </h4>
+<h2 align="centre">Hi there 👋, I'm Mithilesh Lathkar</h2>
+
+- I'm a passionate Information Technology student at Vishwakarma Institute of Information Technology. 
+- Welcome to my GitHub playground, where I blend creativity with code.
+
+## 🚀 About Me
+
+- 🔭 I’m currently exploring the vast universe of Web Development and sharpening my skills in Competitive Programming.
+- 👯 I’m open to collaborations and always excited to connect with fellow developers.
+
+- Feel free to explore my projects, provide feedback, or reach out for collaboration. Let's build something awesome together! 🚀
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
