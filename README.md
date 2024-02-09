@@ -32,7 +32,7 @@
 
 ## GitHub Stats
 <p align="center">
-  <div style="background-color: white" align="center">
+  <div style="background-color: white"; align="center">
     <img height = "180" width = "400" src="https://github-readme-stats.vercel.app/api?username=LMithilesh-26&show_icons=true&theme=outrun" alt="LMithilesh-26">
     <img height = "180" width = "400" src="https://github-readme-streak-stats.herokuapp.com/?user=LMithilesh-26&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" alt="LMithilesh-26" />
     <img height = "180" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs?username=LMithilesh-26&show_icons=true&locale=en&layout=compact&theme=outrun" alt="LMithilesh-26">
