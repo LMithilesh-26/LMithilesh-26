@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a>
 
   <a href="https://www.w3schools.com/sql/" target="_blank"> 
-  <img src="https://github.com/LMithilesh-26/LMithilesh-26/blob/main/SQL_Image.png" alt="SQL" width="40" height="40"/> </a>
+  <img src="https://github.com/LMithilesh-26/LMithilesh-26/blob/main/SQL.svg" alt="SQL" width="40" height="40"/> </a>
 
   <a href="https://firebase.google.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" alt="firebase" width="40" height="40"/> </a>
