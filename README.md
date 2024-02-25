@@ -1,19 +1,13 @@
-<h2 align="center">Hi there 👋, I'm Mithilesh Lathkar</h2>
+<h2 align="center">Hi 👋, I'm Mithilesh Lathkar</h2>
 
-- I'm a passionate Information Technology student at Vishwakarma Institute of Information Technology. 
-- Welcome to my GitHub playground, where I blend creativity with code.
-
-## 🚀 About Me
-
+- 🌱 Welcome to my GitHub playground, where I blend creativity with code.
 - 🔭 I’m currently exploring the vast universe of Web Development and sharpening my skills in Competitive Programming.
-- 👯 I’m open to collaborations and always excited to connect with fellow developers.
-
-- Feel free to explore my projects, provide feedback, or reach out for collaboration. Let's build something awesome together! 🚀
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+- 🚀 Passionate about Data Structures & Algorithms, Web Development Technologies, and delving into the world of Artificial Intelligence. 
+- 💞️ Feel free to explore my projects, provide feedback, or reach out for collaboration. Let's build something awesome together! 🚀
 
 
+## Languages and Tools:
+<div align="center">
   <a href="https://www.learn-c.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="40" height="40"/> </a>
 
@@ -46,13 +40,15 @@
 
   <a href="https://firebase.google.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" alt="firebase" width="40" height="40"/> </a>
- 
+ </div>
 
-## GitHub Stats
+## GitHub Stats:
 <p align="center">
   <div align="center">
-    <img height = "180" width = "400" src="https://github-readme-stats.vercel.app/api?username=LMithilesh-26&show_icons=true&theme=outrun" alt="LMithilesh-26">
-    <img height = "180" width = "400" src="https://github-readme-streak-stats.herokuapp.com/?user=LMithilesh-26&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" alt="LMithilesh-26" />
-    <img height = "180" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs?username=LMithilesh-26&show_icons=true&locale=en&layout=compact&theme=outrun" alt="LMithilesh-26">
+    <img src="https://github-readme-stats.vercel.app/api?username=LMithilesh-26&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <br/>    <br/> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LMithilesh-26&theme=highcontrast&hide_border=false" alt="GitHub Streak"/>
+    <br/>    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMithilesh-26&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
   </div>
 </p>
