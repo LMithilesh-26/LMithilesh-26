@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋, I'm Mithilesh Lathkar</h2>
+<h2 align="center">Hi 👋, I'm Mithilesh</h2>
 
 - 🌱 Welcome to my GitHub playground, where I blend creativity with code.
 - 🔭 I’m currently exploring the vast universe of Web Development and sharpening my skills in Competitive Programming.
 - 🚀 Passionate about Data Structures & Algorithms, Web Development Technologies, and delving into the world of Artificial Intelligence. 
-- 💞️ Feel free to explore my projects, provide feedback, or reach out for collaboration. Let's build something awesome together! 🚀
+- 💞️ Feel free to explore my projects, provide feedback, or reach out for collaboration. Let's build something awesome together! 
 
 
 ## Languages and Tools:
